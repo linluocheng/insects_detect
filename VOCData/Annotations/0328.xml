@@ -1,0 +1,26 @@
+<annotation>
+	<folder>13</folder>
+	<filename>08396.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\valid\13\08396.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>140</width>
+		<height>105</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice shell pest </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>11</ymin>
+			<xmax>130</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>

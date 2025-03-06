@@ -1,0 +1,50 @@
+<annotation>
+	<folder>78</folder>
+	<filename>60364.jpg</filename>
+	<path>E:\datapro\dataset\JPEGImages\78\60364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>283</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ceroplastes rubens</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>90</ymin>
+			<xmax>120</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ceroplastes rubens</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>92</ymin>
+			<xmax>180</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Ceroplastes rubens</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>89</ymin>
+			<xmax>234</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>54</folder>
+	<filename>39368.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\54\39368.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>292</width>
+		<height>223</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>56</ymin>
+			<xmax>220</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

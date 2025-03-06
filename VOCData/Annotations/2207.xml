@@ -1,0 +1,26 @@
+<annotation>
+	<folder>88</folder>
+	<filename>64318.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\88\64318.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>453</width>
+		<height>289</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Phyllocnistis citrella Stainton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>70</ymin>
+			<xmax>198</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

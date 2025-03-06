@@ -1,0 +1,26 @@
+<annotation>
+	<folder>33</folder>
+	<filename>25178.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\33\25178.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheat phloeothrips</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>254</ymin>
+			<xmax>974</xmax>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+</annotation>

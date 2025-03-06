@@ -1,0 +1,26 @@
+<annotation>
+	<folder>30</folder>
+	<filename>24232.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\30\24232.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheat blossom midge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>241</xmin>
+			<ymin>62</ymin>
+			<xmax>619</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

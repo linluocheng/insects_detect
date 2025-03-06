@@ -1,0 +1,50 @@
+<annotation>
+	<folder>64</folder>
+	<filename>43528.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\64\43528.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>516</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pseudococcus comstocki Kuwana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>127</ymin>
+			<xmax>327</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pseudococcus comstocki Kuwana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>122</ymin>
+			<xmax>540</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Pseudococcus comstocki Kuwana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>78</ymin>
+			<xmax>717</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

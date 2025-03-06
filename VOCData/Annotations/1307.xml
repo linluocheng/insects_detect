@@ -1,0 +1,26 @@
+<annotation>
+	<folder>55</folder>
+	<filename>40115.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\55\40115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>284</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alfalfa seed chalcid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>74</ymin>
+			<xmax>430</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

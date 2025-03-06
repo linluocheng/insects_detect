@@ -1,0 +1,26 @@
+<annotation>
+	<folder>76</folder>
+	<filename>59218.jpg</filename>
+	<path>E:\datapro\dataset\JPEGImages\76\59218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>673</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Icerya purchasi Maskell</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>298</ymin>
+			<xmax>602</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+</annotation>

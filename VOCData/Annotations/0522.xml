@@ -1,0 +1,26 @@
+<annotation>
+	<folder>22</folder>
+	<filename>14390.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\22\14390.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>corn borer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>129</ymin>
+			<xmax>302</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+</annotation>

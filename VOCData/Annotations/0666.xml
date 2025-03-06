@@ -1,0 +1,26 @@
+<annotation>
+	<folder>29</folder>
+	<filename>23445.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\29\23445.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>735</width>
+		<height>529</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bird cherry-oataphid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>182</ymin>
+			<xmax>651</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

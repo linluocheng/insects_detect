@@ -1,0 +1,26 @@
+<annotation>
+	<folder>12</folder>
+	<filename>07967.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\12\07967.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>302</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grain spreader thrips </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>43</ymin>
+			<xmax>385</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+</annotation>

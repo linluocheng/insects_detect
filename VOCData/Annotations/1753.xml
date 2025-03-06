@@ -1,0 +1,26 @@
+<annotation>
+	<folder>69</folder>
+	<filename>51219.jpg</filename>
+	<path>E:\datapro\dataset\JPEGImages\69\51219.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>245</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cicadella viridis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>65</ymin>
+			<xmax>180</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

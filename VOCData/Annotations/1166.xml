@@ -1,0 +1,26 @@
+<annotation>
+	<folder>52</folder>
+	<filename>38763.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\52\38763.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>247</width>
+		<height>239</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>therioaphis maculata Buckton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>15</ymin>
+			<xmax>212</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

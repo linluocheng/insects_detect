@@ -1,0 +1,38 @@
+<annotation>
+	<folder>81</folder>
+	<filename>60915.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\81\60915.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>328</width>
+		<height>185</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nipaecoccus vastalor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>26</ymin>
+			<xmax>212</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nipaecoccus vastalor</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>10</ymin>
+			<xmax>328</xmax>
+			<ymax>102</ymax>
+		</bndbox>
+	</object>
+</annotation>

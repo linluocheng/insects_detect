@@ -1,0 +1,26 @@
+<annotation>
+	<folder>96</folder>
+	<filename>67884.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\96\67884.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>615</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deporaus marginatus Pascoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>191</ymin>
+			<xmax>484</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

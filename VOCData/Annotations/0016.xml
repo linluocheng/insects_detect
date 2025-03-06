@@ -1,0 +1,26 @@
+<annotation>
+	<folder>0</folder>
+	<filename>00094.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\0\00094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>255</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice leaf roller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>86</ymin>
+			<xmax>149</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

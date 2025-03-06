@@ -1,0 +1,26 @@
+<annotation>
+	<folder>84</folder>
+	<filename>62133.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\84\62133.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4240</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dacus dorsalis(Hendel)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2451</xmin>
+			<ymin>899</ymin>
+			<xmax>2943</xmax>
+			<ymax>1356</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>45</folder>
+	<filename>30988.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\45\30988.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>510</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>flax budworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>85</ymin>
+			<xmax>979</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+</annotation>

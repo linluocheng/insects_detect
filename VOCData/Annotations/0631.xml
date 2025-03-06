@@ -1,0 +1,26 @@
+<annotation>
+	<folder>27</folder>
+	<filename>22542.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\27\22542.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>665</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>english grain aphid</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>194</ymin>
+			<xmax>573</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

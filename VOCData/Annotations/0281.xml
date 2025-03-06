@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11</folder>
+	<filename>07500.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\11\07500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>221</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice leafhopper 	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>48</ymin>
+			<xmax>207</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>39</folder>
+	<filename>27668.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\39\27668.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>285</width>
+		<height>229</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beet army worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>88</ymin>
+			<xmax>217</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

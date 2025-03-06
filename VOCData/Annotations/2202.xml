@@ -1,0 +1,26 @@
+<annotation>
+	<folder>87</folder>
+	<filename>64063.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\87\64063.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adristyrannus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>40</ymin>
+			<xmax>306</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

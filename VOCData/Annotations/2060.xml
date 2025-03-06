@@ -1,0 +1,38 @@
+<annotation>
+	<folder>80</folder>
+	<filename>60893.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\80\60893.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>248</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Parlatoria zizyphus Lucus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>81</ymin>
+			<xmax>228</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Parlatoria zizyphus Lucus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>37</ymin>
+			<xmax>400</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>

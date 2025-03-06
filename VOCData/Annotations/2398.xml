@@ -1,0 +1,26 @@
+<annotation>
+	<folder>97</folder>
+	<filename>68223.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\97\68223.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>260</width>
+		<height>204</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chlumetia transversa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>57</ymin>
+			<xmax>168</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

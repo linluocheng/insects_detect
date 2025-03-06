@@ -1,0 +1,26 @@
+<annotation>
+	<folder>50</folder>
+	<filename>36027.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\50\36027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>legume blister beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>200</xmin>
+			<ymin>39</ymin>
+			<xmax>611</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

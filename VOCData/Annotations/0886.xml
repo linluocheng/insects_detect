@@ -1,0 +1,26 @@
+<annotation>
+	<folder>38</folder>
+	<filename>26846.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\38\26846.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>125</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cabbage army worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>46</ymin>
+			<xmax>213</xmax>
+			<ymax>105</ymax>
+		</bndbox>
+	</object>
+</annotation>

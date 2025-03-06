@@ -1,0 +1,26 @@
+<annotation>
+	<folder>47</folder>
+	<filename>32560.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\47\32560.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarnished plant bug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>66</ymin>
+			<xmax>427</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>9</folder>
+	<filename>06037.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\9\06037.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>small brown plant hopper </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>213</ymin>
+			<xmax>792</xmax>
+			<ymax>406</ymax>
+		</bndbox>
+	</object>
+</annotation>

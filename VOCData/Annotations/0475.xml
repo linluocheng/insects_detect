@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20</folder>
+	<filename>13417.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\20\13417.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow cutworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>152</ymin>
+			<xmax>852</xmax>
+			<ymax>658</ymax>
+		</bndbox>
+	</object>
+</annotation>

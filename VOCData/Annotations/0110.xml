@@ -1,0 +1,26 @@
+<annotation>
+	<folder>4</folder>
+	<filename>02955.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\4\02955.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1360</width>
+		<height>1074</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow rice borer 	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>52</ymin>
+			<xmax>1360</xmax>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>03993.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\6\03993.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>972</width>
+		<height>589</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rice Stemfly </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>437</xmin>
+			<ymin>271</ymin>
+			<xmax>512</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

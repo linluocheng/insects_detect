@@ -1,0 +1,26 @@
+<annotation>
+	<folder>36</folder>
+	<filename>25944.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\36\25944.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>304</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>beet fly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>112</ymin>
+			<xmax>201</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

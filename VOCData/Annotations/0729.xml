@@ -1,0 +1,26 @@
+<annotation>
+	<folder>31</folder>
+	<filename>24646.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\31\24646.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>760</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>penthaleus major</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>94</ymin>
+			<xmax>902</xmax>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>99</folder>
+	<filename>68523.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\99\68523.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>413</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rhytidodera bowrinii white</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>113</ymin>
+			<xmax>342</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

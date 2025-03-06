@@ -1,0 +1,26 @@
+<annotation>
+	<folder>70</folder>
+	<filename>52407.jpg</filename>
+	<path>E:\datapro\dataset\JPEGImages\70\52407.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Miridae</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>228</ymin>
+			<xmax>510</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

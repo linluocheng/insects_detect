@@ -1,0 +1,26 @@
+<annotation>
+	<folder>67</folder>
+	<filename>44632.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\67\44632.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>219</width>
+		<height>298</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lycorma delicatula</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>98</ymin>
+			<xmax>143</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

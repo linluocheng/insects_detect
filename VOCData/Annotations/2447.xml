@@ -1,0 +1,50 @@
+<annotation>
+	<folder>100</folder>
+	<filename>69065.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\100\69065.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sternochetus frigidus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>118</ymin>
+			<xmax>282</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sternochetus frigidus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>138</ymin>
+			<xmax>328</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Sternochetus frigidus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>226</ymin>
+			<xmax>452</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

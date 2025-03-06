@@ -1,0 +1,8 @@
+train: C:\Users\29392\Desktop\yolov5-master\VOCData\dataSet_path\train.txt
+val: C:\Users\29392\Desktop\yolov5-master\VOCData\dataSet_path\val.txt
+
+# number of classes
+nc: 7
+
+# class names
+names: ["cricket", "ant","carpenterworm","earthworm","snail","locust","earwig"]

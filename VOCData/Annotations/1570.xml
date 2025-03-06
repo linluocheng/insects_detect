@@ -1,0 +1,26 @@
+<annotation>
+	<folder>66</folder>
+	<filename>43923.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\66\43923.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>304</width>
+		<height>214</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ampelophaga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>34</ymin>
+			<xmax>227</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>

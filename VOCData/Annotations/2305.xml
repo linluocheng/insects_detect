@@ -1,0 +1,38 @@
+<annotation>
+	<folder>92</folder>
+	<filename>65689.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\92\65689.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scirtothrips dorsalis Hood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>223</ymin>
+			<xmax>520</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Scirtothrips dorsalis Hood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>7</ymin>
+			<xmax>349</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

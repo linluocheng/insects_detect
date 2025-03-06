@@ -1,0 +1,26 @@
+<annotation>
+	<folder>71</folder>
+	<filename>57474.jpg</filename>
+	<path>E:\datapro\dataset\JPEGImages\71\57474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>755</width>
+		<height>731</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trialeurodes vaporariorum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>105</ymin>
+			<xmax>574</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

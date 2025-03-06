@@ -1,0 +1,26 @@
+<annotation>
+	<folder>35</folder>
+	<filename>25724.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\35\25724.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>229</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cerodonta denticornis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>96</ymin>
+			<xmax>305</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

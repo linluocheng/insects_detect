@@ -1,0 +1,26 @@
+<annotation>
+	<folder>40</folder>
+	<filename>29482.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\40\29482.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>283</width>
+		<height>187</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Beet spot flies</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>44</ymin>
+			<xmax>217</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

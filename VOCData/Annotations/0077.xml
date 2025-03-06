@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>01874.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\3\01874.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>216</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>asiatic rice borer 	</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>68</ymin>
+			<xmax>300</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

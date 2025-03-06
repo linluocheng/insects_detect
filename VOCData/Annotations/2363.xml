@@ -1,0 +1,26 @@
+<annotation>
+	<folder>95</folder>
+	<filename>67454.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\95\67454.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>489</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Salurnis marginella Guerr</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>156</ymin>
+			<xmax>489</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

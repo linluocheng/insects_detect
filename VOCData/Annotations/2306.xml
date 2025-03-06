@@ -1,0 +1,26 @@
+<annotation>
+	<folder>93</folder>
+	<filename>66298.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\93\66298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Dasineura sp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>263</ymin>
+			<xmax>386</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

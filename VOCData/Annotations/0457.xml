@@ -1,0 +1,26 @@
+<annotation>
+	<folder>19</folder>
+	<filename>12903.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\19\12903.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>234</width>
+		<height>176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>large cutworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>53</ymin>
+			<xmax>189</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

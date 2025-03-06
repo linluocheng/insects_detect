@@ -1,0 +1,26 @@
+<annotation>
+	<folder>58</folder>
+	<filename>41086.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\58\41086.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>201</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Limacodidae</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>12</ymin>
+			<xmax>188</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

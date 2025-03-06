@@ -1,0 +1,50 @@
+<annotation>
+	<folder>62</folder>
+	<filename>43148.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\62\43148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oides decempunctata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>115</ymin>
+			<xmax>126</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>oides decempunctata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>100</ymin>
+			<xmax>141</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>oides decempunctata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>115</xmin>
+			<ymin>61</ymin>
+			<xmax>148</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

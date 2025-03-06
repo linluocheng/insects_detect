@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14</folder>
+	<filename>08474.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\valid\14\08474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>295</width>
+		<height>221</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>grub 	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>73</ymin>
+			<xmax>161</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

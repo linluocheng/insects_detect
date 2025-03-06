@@ -1,0 +1,50 @@
+<annotation>
+	<folder>41</folder>
+	<filename>29580.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\41\29580.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>456</width>
+		<height>329</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>meadow moth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>48</ymin>
+			<xmax>157</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>meadow moth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>178</ymin>
+			<xmax>188</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>meadow moth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>154</ymin>
+			<xmax>254</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

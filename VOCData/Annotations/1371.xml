@@ -1,0 +1,26 @@
+<annotation>
+	<folder>57</folder>
+	<filename>40754.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\57\40754.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>705</width>
+		<height>525</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apolygus lucorum</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>412</xmin>
+			<ymin>185</ymin>
+			<xmax>512</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

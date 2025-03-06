@@ -1,0 +1,26 @@
+<annotation>
+	<folder>91</folder>
+	<filename>65143.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\91\65143.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>157</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aphis citricola Vander Goot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>33</ymin>
+			<xmax>198</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>101</folder>
+	<filename>69518.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\101\69518.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>546</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cicadellidae</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>402</ymin>
+			<xmax>523</xmax>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

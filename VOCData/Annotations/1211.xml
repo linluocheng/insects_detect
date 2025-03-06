@@ -1,0 +1,26 @@
+<annotation>
+	<folder>53</folder>
+	<filename>39102.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\53\39102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>197</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>odontothrips loti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>49</ymin>
+			<xmax>237</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

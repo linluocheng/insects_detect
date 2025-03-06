@@ -1,0 +1,26 @@
+<annotation>
+	<folder>60</folder>
+	<filename>42831.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\60\42831.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>886</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Colomerus vitis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>227</ymin>
+			<xmax>594</xmax>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>01651.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\2\01651.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2872</width>
+		<height>1880</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>paddy stem maggot </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>446</ymin>
+			<xmax>1987</xmax>
+			<ymax>1516</ymax>
+		</bndbox>
+	</object>
+</annotation>

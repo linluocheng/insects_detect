@@ -1,0 +1,26 @@
+<annotation>
+	<folder>25</folder>
+	<filename>21211.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\25\21211.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potosiabre vitarsis </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>95</ymin>
+			<xmax>387</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

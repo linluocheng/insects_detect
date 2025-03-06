@@ -1,0 +1,26 @@
+<annotation>
+	<folder>51</folder>
+	<filename>37086.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\51\37086.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>953</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>blister beetle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>594</xmin>
+			<ymin>153</ymin>
+			<xmax>1005</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

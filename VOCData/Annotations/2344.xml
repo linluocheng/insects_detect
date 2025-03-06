@@ -1,0 +1,50 @@
+<annotation>
+	<folder>94</folder>
+	<filename>66865.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\94\66865.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lawana imitata Melichar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>9</ymin>
+			<xmax>245</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lawana imitata Melichar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>234</xmin>
+			<ymin>173</ymin>
+			<xmax>341</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lawana imitata Melichar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>308</ymin>
+			<xmax>422</xmax>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+</annotation>

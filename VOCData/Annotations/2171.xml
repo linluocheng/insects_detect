@@ -1,0 +1,26 @@
+<annotation>
+	<folder>86</folder>
+	<filename>62721.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\86\62721.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Prodenia litura</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>78</ymin>
+			<xmax>286</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

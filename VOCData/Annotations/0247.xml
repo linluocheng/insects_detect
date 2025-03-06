@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10</folder>
+	<filename>06643.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\10\06643.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>178</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice water weevil 	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>91</xmin>
+			<ymin>69</ymin>
+			<xmax>201</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

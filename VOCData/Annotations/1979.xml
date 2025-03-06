@@ -1,0 +1,26 @@
+<annotation>
+	<folder>73</folder>
+	<filename>58334.jpg</filename>
+	<path>E:\datapro\dataset\JPEGImages\73\58334.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>972</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Papilio xuthus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>197</ymin>
+			<xmax>1088</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+</annotation>

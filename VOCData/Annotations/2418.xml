@@ -1,0 +1,26 @@
+<annotation>
+	<folder>98</folder>
+	<filename>68448.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\98\68448.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>497</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mango flat beak leafhopper</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>120</ymin>
+			<xmax>578</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

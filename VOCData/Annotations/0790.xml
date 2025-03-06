@@ -1,0 +1,26 @@
+<annotation>
+	<folder>34</folder>
+	<filename>25415.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\34\25415.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1020</width>
+		<height>339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wheat sawfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>62</ymin>
+			<xmax>771</xmax>
+			<ymax>330</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8</folder>
+	<filename>05204.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\8\05204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>362</width>
+		<height>233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white backed plant hopper </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>75</ymin>
+			<xmax>229</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

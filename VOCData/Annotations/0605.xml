@@ -1,0 +1,26 @@
+<annotation>
+	<folder>26</folder>
+	<filename>21796.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\26\21796.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3128</width>
+		<height>1912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peach borer </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>856</xmin>
+			<ymin>422</ymin>
+			<xmax>2306</xmax>
+			<ymax>1347</ymax>
+		</bndbox>
+	</object>
+</annotation>

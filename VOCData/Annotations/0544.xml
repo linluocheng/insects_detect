@@ -1,0 +1,26 @@
+<annotation>
+	<folder>23</folder>
+	<filename>16109.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\23\16109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>539</width>
+		<height>347</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>army worm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>122</ymin>
+			<xmax>288</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>83</folder>
+	<filename>61765.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\83\61765.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tetradacus c Bactrocera minax</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>58</ymin>
+			<xmax>184</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

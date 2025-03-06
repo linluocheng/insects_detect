@@ -1,0 +1,26 @@
+<annotation>
+	<folder>90</folder>
+	<filename>65126.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\90\65126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Toxoptera aurantii</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>67</ymin>
+			<xmax>223</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

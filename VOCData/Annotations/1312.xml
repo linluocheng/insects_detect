@@ -1,0 +1,26 @@
+<annotation>
+	<folder>56</folder>
+	<filename>40194.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\56\40194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pieris canidia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>5</ymin>
+			<xmax>506</xmax>
+			<ymax>371</ymax>
+		</bndbox>
+	</object>
+</annotation>

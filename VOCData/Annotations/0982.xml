@@ -1,0 +1,26 @@
+<annotation>
+	<folder>43</folder>
+	<filename>30127.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\43\30127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sericaorient alismots chulsky </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>105</ymin>
+			<xmax>437</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

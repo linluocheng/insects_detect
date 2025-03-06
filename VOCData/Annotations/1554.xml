@@ -1,0 +1,26 @@
+<annotation>
+	<folder>65</folder>
+	<filename>43791.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\65\43791.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>357</width>
+		<height>267</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>parathrene regalis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>29</ymin>
+			<xmax>284</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

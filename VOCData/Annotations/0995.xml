@@ -1,0 +1,26 @@
+<annotation>
+	<folder>44</folder>
+	<filename>30273.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\44\30273.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alfalfa weevil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>72</ymin>
+			<xmax>197</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

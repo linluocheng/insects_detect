@@ -1,0 +1,26 @@
+<annotation>
+	<folder>17</folder>
+	<filename>11895.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\17\11895.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>341</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>white margined moth</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>10</ymin>
+			<xmax>242</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

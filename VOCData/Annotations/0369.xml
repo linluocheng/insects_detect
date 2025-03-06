@@ -1,0 +1,26 @@
+<annotation>
+	<folder>15</folder>
+	<filename>09663.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\valid\15\09663.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>634</width>
+		<height>476</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mole cricket </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>198</ymin>
+			<xmax>483</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

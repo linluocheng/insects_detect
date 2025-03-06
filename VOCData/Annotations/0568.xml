@@ -1,0 +1,26 @@
+<annotation>
+	<folder>24</folder>
+	<filename>17247.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\24\17247.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>196</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>aphids 	</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>68</ymin>
+			<xmax>213</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>

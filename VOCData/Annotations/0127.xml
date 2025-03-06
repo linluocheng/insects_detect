@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>03448.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\5\03448.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1102</width>
+		<height>1469</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice gall midge </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>334</ymin>
+			<xmax>814</xmax>
+			<ymax>1354</ymax>
+		</bndbox>
+	</object>
+</annotation>

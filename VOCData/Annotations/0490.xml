@@ -1,0 +1,26 @@
+<annotation>
+	<folder>21</folder>
+	<filename>13807.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\21\13807.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red spider</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>89</ymin>
+			<xmax>450</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

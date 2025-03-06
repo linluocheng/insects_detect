@@ -1,0 +1,26 @@
+<annotation>
+	<folder>68</folder>
+	<filename>49978.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\68\49978.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Xylotrechus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>150</ymin>
+			<xmax>349</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+</annotation>

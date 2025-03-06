@@ -1,0 +1,26 @@
+<annotation>
+	<folder>68</folder>
+	<filename>50013.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\68\50013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>344</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Xylotrechus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>126</ymin>
+			<xmax>189</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

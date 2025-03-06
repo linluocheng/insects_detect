@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1</folder>
+	<filename>01141.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\1\01141.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1643</width>
+		<height>1205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rice leaf caterpillar </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>612</xmin>
+			<ymin>360</ymin>
+			<xmax>1132</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+</annotation>

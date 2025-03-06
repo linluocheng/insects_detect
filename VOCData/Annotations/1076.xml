@@ -1,0 +1,26 @@
+<annotation>
+	<folder>48</folder>
+	<filename>33341.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\48\33341.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Locustoidea</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>116</ymin>
+			<xmax>800</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>

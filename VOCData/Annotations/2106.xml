@@ -1,0 +1,50 @@
+<annotation>
+	<folder>82</folder>
+	<filename>61350.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\82\61350.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Aleurocanthus spiniferus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>100</ymin>
+			<xmax>349</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aleurocanthus spiniferus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>221</ymin>
+			<xmax>436</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Aleurocanthus spiniferus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>301</ymin>
+			<xmax>434</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

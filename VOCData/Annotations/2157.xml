@@ -1,0 +1,26 @@
+<annotation>
+	<folder>85</folder>
+	<filename>62613.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\85\62613.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bactrocera tsuneonis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>25</ymin>
+			<xmax>323</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>18</folder>
+	<filename>11999.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\18\11999.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>696</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black cutworm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>231</ymin>
+			<xmax>142</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

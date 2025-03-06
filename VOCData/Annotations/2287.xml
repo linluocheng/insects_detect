@@ -1,0 +1,26 @@
+<annotation>
+	<folder>92</folder>
+	<filename>65501.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\92\65501.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>466</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Scirtothrips dorsalis Hood</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>54</ymin>
+			<xmax>422</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

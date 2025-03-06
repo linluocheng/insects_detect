@@ -1,0 +1,26 @@
+<annotation>
+	<folder>16</folder>
+	<filename>10991.jpg</filename>
+	<path>F:\比赛\计算机设计大赛——物联网赛道“识虫”\二八分\train\16\10991.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>198</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wireworm </name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>2</ymin>
+			<xmax>240</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

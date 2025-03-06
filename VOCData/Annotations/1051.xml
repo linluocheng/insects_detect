@@ -1,0 +1,26 @@
+<annotation>
+	<folder>46</folder>
+	<filename>32065.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\46\32065.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>652</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>alfalfa plant bug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>56</ymin>
+			<xmax>706</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

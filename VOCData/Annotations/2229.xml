@@ -1,0 +1,26 @@
+<annotation>
+	<folder>89</folder>
+	<filename>64734.jpg</filename>
+	<path>C:\Users\1\Desktop\新建文件夹 (2)\89\64734.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>955</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Toxoptera citricidus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>269</ymin>
+			<xmax>712</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+</annotation>

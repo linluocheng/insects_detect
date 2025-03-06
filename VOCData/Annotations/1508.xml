@@ -1,0 +1,26 @@
+<annotation>
+	<folder>62</folder>
+	<filename>43139.jpg</filename>
+	<path>C:\Users\Krooskim\Desktop\dataset\JPEGImages\62\43139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>1840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oides decempunctata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1535</xmin>
+			<ymin>813</ymin>
+			<xmax>2193</xmax>
+			<ymax>1352</ymax>
+		</bndbox>
+	</object>
+</annotation>
